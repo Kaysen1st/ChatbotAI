@@ -1,5 +1,7 @@
 # Mental-Health-Chatbot
- 
+A conversational AI system designed to provide initial mental health support, resources, and guidance while maintaining clear boundaries about its non-therapeutic nature.
+
+
 Prerequisites
 
 Python 3.8+
